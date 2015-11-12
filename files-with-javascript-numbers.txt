@@ -1,0 +1,10 @@
+   13 files-with-javascript.txt
+   13 files-with-javascript.txt
+   13 files-with-javascript.txt
+   13 files-with-javascript.txt
+    2 .git/index
+   13 files-with-javascript.txt
+   13 files-with-javascript.txt
+   13 files-with-javascript.txt
+   13 files-with-javascript.txt
+  106 total

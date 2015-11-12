@@ -1,0 +1,9 @@
+.c9/metadata/workspace/files-with-javascript-numbers.txt
+.c9/metadata/workspace/filenames-with-javascript.txt
+files-with-javascript-numbers.txt
+.git/logs/HEAD
+.git/logs/refs/heads/finding-content
+.git/COMMIT_EDITMSG
+.git/index
+README.md
+files-with-javascript.txt

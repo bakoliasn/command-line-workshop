@@ -2,3 +2,12 @@ README.md: * Find all the files in the DecodeMTL project that contain the word "
 README.md: * Take the output of the command to a file called `files-with-javascript.txt`
 README.md: * Take the output of the command to a file called `files-with-javascript-numbers.txt`
 README.md: * Take the output of that new command to a file called `filenames-with-javascript.txt`
+.git/logs/HEAD:870c5459b53150295d80c7833568aa5749149786 6dccf975b4dbef3c9836e7138f9d538c6b21c397 bakoliasn <bakoliasn@gmail.com> 1447351971 +0000	commit: created files-with-javascript.txt in finding-content
+.git/logs/refs/heads/finding-content:870c5459b53150295d80c7833568aa5749149786 6dccf975b4dbef3c9836e7138f9d538c6b21c397 bakoliasn <bakoliasn@gmail.com> 1447351971 +0000	commit: created files-with-javascript.txt in finding-content
+.git/COMMIT_EDITMSG:created files-with-javascript.txt in finding-content
+.git/COMMIT_EDITMSG:#	new file:   files-with-javascript.txt
+Binary file .git/index matches
+README.md: * Find all the files in the DecodeMTL project that contain the word "javascript"
+README.md: * Take the output of the command to a file called `files-with-javascript.txt`
+README.md: * Take the output of the command to a file called `files-with-javascript-numbers.txt`
+README.md: * Take the output of that new command to a file called `filenames-with-javascript.txt`
